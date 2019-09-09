@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2019/9/9 
+# @Author  : Elliott Zheng  
+# @Email   : admin@hypercube.top
+
+
 import torch
 from torch import nn
 
