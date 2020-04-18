@@ -1,6 +1,6 @@
 ### Adaptive Wing Loss 
 
-This is an unofficial PyTorch version implementation of 
+This is an **unofficial** PyTorch version implementation of 
 **Adaptive Wing Loss** and **Wing Loss** mentioned in 
 
 1. [Adaptive Wing Loss for Robust Face Alignment via Heatmap Regression](https://arxiv.org/pdf/1904.07399.pdf)
@@ -9,5 +9,7 @@ This is an unofficial PyTorch version implementation of
 
 
 
-There might be bugs in the codes, feel free to open issue.
+There might be bugs in the codes, feel free to open issue. 
+
+**The the offical implementation has been released, please refer to [https://github.com/protossw512/AdaptiveWingLoss](https://github.com/protossw512/AdaptiveWingLoss).**
 
